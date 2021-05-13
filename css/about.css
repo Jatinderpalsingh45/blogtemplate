@@ -1,0 +1,276 @@
+
+/* mobile desktop */
+@media (max-width: 600px) {
+    .navbar{
+        position: fixed;
+        background-color: transparent !important;
+        width: 100%;
+    }
+    .nav-link{
+        font-family: 'Cormorant Garamond', sans-serif;
+        font-size: 20px;
+        letter-spacing: 2px;
+        font-weight: 400;
+        color:  #ffffff !important;
+    }
+    .navbar-brand{
+        font-family: 'Cormorant Garamond', sans-serif;
+        font-size: 28px;
+        font-weight: 900;
+        letter-spacing: 1px;
+        color:  #ffffff !important;
+    }
+    #screen1 > nav > div > button{
+        background-color: #ffffff !important;
+    }
+
+    #screen1{
+        background-image: url(../img/home.jpeg);
+        padding: 10px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 50vh;
+        width: 100vw;
+    }
+    
+    #homepage{
+        width: 100%;
+    }
+    
+    
+    h1{
+        font-size: 24px;
+        margin-top: .5rem;
+        font-weight: 500;
+        font-family: 'Cormorant Garamond', sans-serif;
+        text-align: center;
+        color: #000000;
+        line-height: 78.848px;
+    }
+    
+    #content{
+        margin-top: 1.0rem;
+        font-size: 12px;
+    }
+    
+    #screen2{
+        width: 100% !important;
+    }
+
+    #footer{
+        width: 100%;
+        height: 4.0rem;
+        background-color: #F9F9F9;
+        padding: 4.0rem;
+        text-align: center;
+        margin-top: 1.0rem;
+    }
+}
+
+/* tablet viewport */
+@media (min-width: 768px) { 
+    .navbar{
+        position: fixed;
+        background-color: transparent !important;
+        width: 100%;
+    }
+    .nav-link{
+        font-family: 'Cormorant Garamond', sans-serif;
+        font-size: 20px;
+        letter-spacing: 2px;
+        font-weight: 400;
+        color:  #ffffff !important;
+    }
+    .navbar-brand{
+        font-family: 'Cormorant Garamond', sans-serif;
+        font-size: 28px;
+        font-weight: 900;
+        letter-spacing: 1px;
+        color:  #ffffff !important;
+    }
+    #navbarSupportedContent{
+        padding-left: 1.0rem;
+    }
+
+    #screen1 > nav > div > button{
+        background-color: #ffffff !important;
+    }
+
+    #screen1{
+        background-image: url(../img/home.jpeg);
+        padding: 10px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 50vh;
+        width: 100vw;
+    }
+    
+    #homepage{
+        width: 100%;
+    }
+    
+    #screen2{
+    
+    }
+    
+    h1{
+        font-size: 34px;
+        margin-top: 1.5rem;
+        font-weight: 500;
+        font-family: 'Cormorant Garamond', sans-serif;
+        text-align: center;
+        color: #000000;
+        line-height: 78.848px;
+    }
+    
+    #content{
+        margin-top: 1.0rem;
+    }
+    
+    #footer{
+        width: 100%;
+        height: 4.0rem;
+        background-color: #F9F9F9;
+        padding: 4.0rem;
+        text-align: center;
+        margin-top: 1.0rem;
+    }
+}
+
+/* desktop viewport */
+@media (min-width: 1200px) { 
+    .navbar{
+        position: fixed;
+        background-color: transparent !important;
+        width: 100%;
+    }
+    .nav-link{
+        font-family: 'Cormorant Garamond', sans-serif;
+        font-size: 20px;
+        letter-spacing: 2px;
+        font-weight: 400;
+        color:  #ffffff !important;
+    }
+    .navbar-brand{
+        font-family: 'Cormorant Garamond', sans-serif;
+        font-size: 28px;
+        font-weight: 900;
+        letter-spacing: 1px;
+        color:  #ffffff !important;
+    }
+    #navbarSupportedContent{
+        padding-left: 60.0rem;
+    }
+    #screen1{
+        background-image: url(../img/home.jpeg);
+        padding: 10px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 50vh;
+        width: 100vw;
+    }
+    
+    #homepage{
+        width: 100%;
+    }
+    
+    #screen2{
+    
+    }
+    
+    h1{
+        font-size: 34px;
+        margin-top: 1.5rem;
+        font-weight: 500;
+        font-family: 'Cormorant Garamond', sans-serif;
+        text-align: center;
+        color: #000000;
+        line-height: 78.848px;
+    }
+    
+    #content{
+        margin-top: 1.0rem;
+    }
+    
+    #footer{
+        width: 100%;
+        height: 4.0rem;
+        background-color: #F9F9F9;
+        padding: 4.0rem;
+        text-align: center;
+        margin-top: 1.0rem;
+    }
+}
+
+/* desktop large viewport */
+@media (min-width: 1400px) {
+    .navbar{
+        position: fixed;
+        background-color: transparent !important;
+        width: 100%;
+    }
+    .nav-link{
+        font-family: 'Cormorant Garamond', sans-serif;
+        font-size: 20px;
+        letter-spacing: 2px;
+        font-weight: 400;
+        color:  #ffffff !important;
+    }
+    .navbar-brand{
+        font-family: 'Cormorant Garamond', sans-serif;
+        font-size: 28px;
+        font-weight: 900;
+        letter-spacing: 1px;
+        color:  #ffffff !important;
+    }
+    #navbarSupportedContent{
+        padding-left: 60.0rem;
+    }
+    #screen1{
+        background-image: url(../img/home.jpeg);
+        padding: 10px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 50vh;
+        width: 100vw;
+    }
+    
+    #homepage{
+        width: 100%;
+    }
+    
+    #screen2{
+    
+    }
+    
+    h1{
+        font-size: 34px;
+        margin-top: 1.5rem;
+        font-weight: 500;
+        font-family: 'Cormorant Garamond', sans-serif;
+        text-align: center;
+        color: #000000;
+        line-height: 78.848px;
+    }
+    
+    #content{
+        margin-top: 1.0rem;
+    }
+    
+    #footer{
+        width: 100%;
+        height: 4.0rem;
+        background-color: #F9F9F9;
+        padding: 4.0rem;
+        text-align: center;
+        margin-top: 1.0rem;
+    }
+}
+
+
+
+
